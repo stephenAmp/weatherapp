@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import avatar from '../assets/avatar.png'
+import avatar from '../assets/female_avatar.png'
 
 
 export default function Header(){

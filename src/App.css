@@ -10,15 +10,15 @@ body{
   margin:0 auto;
   width:90%;
   height:550px;
-  background-color: azure;
   margin-top: 25px;
 }
 
 .header-container{
-  width:100%;
+  width:1050px;
   height:50px;
   display:flex;
   align-items:center;
+  padding:0 15px;
   justify-content:space-between;
 }
 .search-bar{
@@ -34,7 +34,6 @@ body{
 .profile{
   display:flex;
   align-items: center;
-  margin-right: 5px;
 }
 
 .profile-img{
@@ -55,7 +54,6 @@ body{
   flex-direction:column;
   width:70px;
   height:100%;
-  border:1px solid
 
 }
 

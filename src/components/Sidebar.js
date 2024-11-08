@@ -7,16 +7,16 @@ export default function Sidebar(){
         <>
             <div className="sidebar-container">
                 <div className="sidebar-item">
-                    <img src={logo} alt='logo' height={70} width={70}/>
+                    <img src={logo} alt='logo' height={40} width={40}/>
                 </div>
                 <div className="sidebar-item">
-                    <i class="bi bi-speedometer2 fs-4 sidebar-icons"></i>
+                    <i class="bi bi-speedometer2 fs-5 sidebar-icons"></i>
                 </div>
                 <div className="sidebar-item">
-                    <i class="bi bi-geo-alt fs-4 sidebar-icons"></i>
+                    <i class="bi bi-geo-alt fs-5 sidebar-icons"></i>
                 </div>
                 <div className="sidebar-item">
-                    <i class="bi bi-gear fs-4 sidebar-icons"></i>
+                    <i class="bi bi-gear fs-5 sidebar-icons"></i>
                 </div>
             </div>
         </>
